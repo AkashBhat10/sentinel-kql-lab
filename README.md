@@ -95,7 +95,3 @@ SecurityEvent
 - Brute force pattern identification and analyst documentation
 - Cloud-native SIEM operations replicating real L1 SOC workflows
 
----
-
-## Screenshots
-
